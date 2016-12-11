@@ -9,7 +9,7 @@
     "geom:bbox":"-109.51227,42.86889,-107.11073,44.61145",
     "geom:latitude":43.831132,
     "geom:longitude":-108.131028,
-    "iso:country":"",
+    "iso:country":"us",
     "mz:hierarchy_label":1,
     "src:geom":"unknown",
     "uscensus:aland":20950091484.0,
@@ -24,15 +24,26 @@
     "uscensus:namelsad":"State Senate District 20",
     "uscensus:sldust":"020",
     "uscensus:statefp":"56",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688475
+    ],
     "wof:breaches":[],
-    "wof:country":"",
+    "wof:constituency":"region",
+    "wof:country":"us",
     "wof:created":1481487234,
     "wof:geomhash":"bfae56bcb92afe4ef9a98bf552f0c312",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688475
+        }
+    ],
     "wof:id":1108768673,
     "wof:lastmodified":1481487234,
-    "wof:parent_id":-1,
+    "wof:parent_id":85688475,
     "wof:repo":"whosonfirst-data-constituency-us-wy",
     "wof:superseded_by":[],
     "wof:supersedes":[],

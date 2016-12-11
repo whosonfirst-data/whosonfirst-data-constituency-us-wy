@@ -9,7 +9,7 @@
     "geom:bbox":"-106.99404,44.78029,-106.9121,44.831415",
     "geom:latitude":44.805101,
     "geom:longitude":-106.956946,
-    "iso:country":"",
+    "iso:country":"us",
     "mz:hierarchy_label":1,
     "src:geom":"unknown",
     "uscensus:aland":11371806.0,
@@ -24,15 +24,26 @@
     "uscensus:namelsad":"State House District 29",
     "uscensus:sldlst":"029",
     "uscensus:statefp":"56",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688475
+    ],
     "wof:breaches":[],
-    "wof:country":"",
+    "wof:constituency":"region",
+    "wof:country":"us",
     "wof:created":1481487215,
     "wof:geomhash":"6ce1234160d1880c5802d6c1ef6bc885",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688475
+        }
+    ],
     "wof:id":1108768557,
     "wof:lastmodified":1481487215,
-    "wof:parent_id":-1,
+    "wof:parent_id":85688475,
     "wof:repo":"whosonfirst-data-constituency-us-wy",
     "wof:superseded_by":[],
     "wof:supersedes":[],

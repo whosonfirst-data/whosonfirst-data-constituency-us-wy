@@ -9,7 +9,7 @@
     "geom:bbox":"-110.05364,42.26136,-107.50142,44.00916",
     "geom:latitude":43.095235,
     "geom:longitude":-108.642343,
-    "iso:country":"",
+    "iso:country":"us",
     "mz:hierarchy_label":1,
     "src:geom":"unknown",
     "uscensus:aland":11857861071.0,
@@ -24,15 +24,26 @@
     "uscensus:namelsad":"State Senate District 26",
     "uscensus:sldust":"026",
     "uscensus:statefp":"56",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688475
+    ],
     "wof:breaches":[],
-    "wof:country":"",
+    "wof:constituency":"region",
+    "wof:country":"us",
     "wof:created":1481487236,
     "wof:geomhash":"162c022aea8142c84db4e8a7138a37c5",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688475
+        }
+    ],
     "wof:id":1108768685,
     "wof:lastmodified":1481487236,
-    "wof:parent_id":-1,
+    "wof:parent_id":85688475,
     "wof:repo":"whosonfirst-data-constituency-us-wy",
     "wof:superseded_by":[],
     "wof:supersedes":[],

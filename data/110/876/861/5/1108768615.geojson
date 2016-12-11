@@ -9,7 +9,7 @@
     "geom:bbox":"-108.48819,43.008553,-108.36098,43.070284",
     "geom:latitude":43.030808,
     "geom:longitude":-108.416958,
-    "iso:country":"",
+    "iso:country":"us",
     "mz:hierarchy_label":1,
     "src:geom":"unknown",
     "uscensus:aland":26655042.0,
@@ -24,15 +24,26 @@
     "uscensus:namelsad":"State House District 55",
     "uscensus:sldlst":"055",
     "uscensus:statefp":"56",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688475
+    ],
     "wof:breaches":[],
-    "wof:country":"",
+    "wof:constituency":"region",
+    "wof:country":"us",
     "wof:created":1481487223,
     "wof:geomhash":"feea70b219317513942746a885f1250f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688475
+        }
+    ],
     "wof:id":1108768615,
     "wof:lastmodified":1481487223,
-    "wof:parent_id":-1,
+    "wof:parent_id":85688475,
     "wof:repo":"whosonfirst-data-constituency-us-wy",
     "wof:superseded_by":[],
     "wof:supersedes":[],

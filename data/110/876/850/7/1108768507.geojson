@@ -9,7 +9,7 @@
     "geom:bbox":"-105.28064,41.157393,-104.59249,41.656655",
     "geom:latitude":41.459468,
     "geom:longitude":-104.914299,
-    "iso:country":"",
+    "iso:country":"us",
     "mz:hierarchy_label":1,
     "src:geom":"unknown",
     "uscensus:aland":2303786930.0,
@@ -24,15 +24,26 @@
     "uscensus:namelsad":"State House District 7",
     "uscensus:sldlst":"007",
     "uscensus:statefp":"56",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688475
+    ],
     "wof:breaches":[],
-    "wof:country":"",
+    "wof:constituency":"region",
+    "wof:country":"us",
     "wof:created":1481487208,
     "wof:geomhash":"05d324dabdd76bf278dd4a31259833e5",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688475
+        }
+    ],
     "wof:id":1108768507,
     "wof:lastmodified":1481487208,
-    "wof:parent_id":-1,
+    "wof:parent_id":85688475,
     "wof:repo":"whosonfirst-data-constituency-us-wy",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -9,7 +9,7 @@
     "geom:bbox":"-104.82878,41.13839,-104.73238,41.164097",
     "geom:latitude":41.151109,
     "geom:longitude":-104.781287,
-    "iso:country":"",
+    "iso:country":"us",
     "mz:hierarchy_label":1,
     "src:geom":"unknown",
     "uscensus:aland":12987755.0,
@@ -24,15 +24,26 @@
     "uscensus:namelsad":"State House District 41",
     "uscensus:sldlst":"041",
     "uscensus:statefp":"56",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688475
+    ],
     "wof:breaches":[],
-    "wof:country":"",
+    "wof:constituency":"region",
+    "wof:country":"us",
     "wof:created":1481487218,
     "wof:geomhash":"139d006c6392466dbacf271d0c100fc3",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688475
+        }
+    ],
     "wof:id":1108768585,
     "wof:lastmodified":1481487218,
-    "wof:parent_id":-1,
+    "wof:parent_id":85688475,
     "wof:repo":"whosonfirst-data-constituency-us-wy",
     "wof:superseded_by":[],
     "wof:supersedes":[],
